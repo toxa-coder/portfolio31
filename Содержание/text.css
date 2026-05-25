@@ -1,0 +1,27 @@
+.text{
+    text-align: center; 
+    color: #ffffff;
+    font-family:Palatino Linotype;
+    font-size: 25pt;
+text-shadow: 3px 3px 4px rgb(0, 255, 242), 0 0 1em black;
+}
+.zagolovok{
+    text-align: left; 
+    color: #ffffff;
+    font-family:Palatino Linotype;
+    font-size: 25pt;
+text-shadow: 3px 3px 4px rgb(0, 255, 242), 0 0 1em black;
+}
+.zagolovok1{
+    text-align: center; 
+    color: #ffffff;
+    font-family:Palatino Linotype;
+    font-size: 25pt;
+text-shadow: 3px 3px 4px rgb(0, 255, 242), 0 0 1em black;
+}
+.zagolovok3{
+    font-family:Palatino Linotype;
+    color: #00eeff;
+    text-shadow: 3px 3px 4px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0);
+    font-size: 12pt;
+}

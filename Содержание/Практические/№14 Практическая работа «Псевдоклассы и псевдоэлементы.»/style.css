@@ -1,0 +1,17 @@
+.p::first-letter{
+    color: red;
+    font-size: 52px;
+  }
+  .g:link{
+    color: green;
+  }
+  .g:hover{
+color: red;
+  }
+  .s:hover{
+    color: red;
+      }
+      .n:hover{
+        color: red;
+          }
+  

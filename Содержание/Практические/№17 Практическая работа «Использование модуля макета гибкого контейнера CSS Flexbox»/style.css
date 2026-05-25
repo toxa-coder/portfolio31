@@ -1,0 +1,25 @@
+body{
+    color: #fff;
+    font: 600 24PX;
+}
+.box{
+    background: #2db34a;
+    border-radius: 6px;
+    border: 1px solid black;
+    height: 95px;
+    width: 95px;
+    line-height: 95px;
+    text-align: center;
+}
+.box3{
+    background: #b4c011;
+    border-radius: 6px;
+    border: 1px solid black;
+    height: 95px;
+    width: 95px;
+    line-height: 95px;
+    text-align: center;
+}
+.main{
+    display: flex;
+}

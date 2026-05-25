@@ -1,0 +1,36 @@
+h1{
+    font-family: Sans-serif;
+    text-align:center;
+    color: blue;
+    border: dotted;
+    border-color: teal;
+    padding: 50px;
+    margin: 30px;
+}
+h2{
+    font-family:Tahoma;
+    color:rgb(219, 18, 18);
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    border: double;
+    border-color: blue green;
+    border-width:5px;
+    padding: 20px;
+    margin: 25px;
+    background-color:rgb(207, 125, 1);
+}
+h3{
+    font-family:Tahoma;
+    color: rgb(105, 115, 255);
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    text-align:justify;
+    border: ridge;
+    border-color: lightcoral;
+    border-width:25px;
+    padding: 20px;
+    margin: 25px;
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-02/1676661743_catherineasquithgallery-com-p-yarko-zelenii-fon-dlya-fotoshopa-3.jpg);
+}

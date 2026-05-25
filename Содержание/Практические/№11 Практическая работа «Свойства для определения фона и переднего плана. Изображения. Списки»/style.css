@@ -1,0 +1,28 @@
+h1{
+    font-family: "Century Gothic";
+    font-size: 30pt;
+    color: #ffffff;
+    line-height: 20pt;
+    text-align: center;
+    background-image: url(SKaF.gif);
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+p{
+    font-family: "Century Gothic";
+    font-size: 20pt;  
+    line-height: 20pt;
+    text-align: justify;
+    text-indent: 15pt;
+    color:rgb(255, 255, 255)
+   
+    
+}
+.fon{
+    background-color: blueviolet;
+}
+body{
+    background-image: url(cCUc7bc.gif);
+    background-attachment: fixed;
+    background-repeat: repeat;
+}

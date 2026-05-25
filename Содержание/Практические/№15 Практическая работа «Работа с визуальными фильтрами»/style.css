@@ -1,0 +1,35 @@
+img{
+    width: 33%;
+    float: left;
+}
+
+.blur:hover{
+filter:blur(3px);
+}
+.brightness:hover{
+filter: brightness(50%);
+}
+.contrast:hover{
+    filter: contrast(20%);
+}
+.drop-shadow:hover{
+    filter: drop-shadow(12px 8px 7px black);
+}
+.grayscale:hover{
+    filter: grayscale(70%);
+}
+.hue-rotate:hover{
+    filter: hue-rotate(180deg);
+}
+.invert:hover{
+    filter: invert(100%);
+}
+.opacity:hover{
+    filter: opacity(30%);
+}
+.saturate:hover{
+    filter: saturate(300%);
+}
+.sepia:hover{
+    filter: sepia(150%);
+}
